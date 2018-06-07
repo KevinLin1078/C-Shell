@@ -1,7 +1,7 @@
 # Kevin Lin
 
 
-# Welcome to my CSE 320 HW#4  
+# Welcome to my SHELL
 ## **Part 1**
 - Thank you for your time to read this :)
 
